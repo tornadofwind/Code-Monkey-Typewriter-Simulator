@@ -1,0 +1,2 @@
+# Daily Notes
+Review code for optimization
